@@ -6,9 +6,9 @@ If you click on the tag widget, you will be redirected to related model.
 
 ## Usage
 
-'''xml
+```
 <field name="employee_ids" widget="many2many_tags_link" />
-''' 
+```
 
 
 Note : this module tested on Odoo 12
