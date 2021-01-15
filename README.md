@@ -12,3 +12,5 @@ If you click on the tag widget, you will be redirected to related model.
 
 
 Note : this module tested on Odoo 12
+
+I have created a new version of this module, please take a look [at this](https://github.com/znry27/open_in_new_tab)
